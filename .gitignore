@@ -1,0 +1,3 @@
+# Reports quote your session text. scripts/scoped_insights.py refuses an output folder git would track.
+/insights/
+__pycache__/
