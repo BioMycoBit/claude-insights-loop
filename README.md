@@ -172,3 +172,5 @@ lacks.
 ## License
 
 MIT, covering everything here, the article included. See [LICENSE](LICENSE).
+
+This is a write-up, so it takes no pull requests. Suggestions are welcome as issues.
